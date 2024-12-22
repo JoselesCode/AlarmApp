@@ -1,0 +1,7 @@
+{
+  "name": "AlarmApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
